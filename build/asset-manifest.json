@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeyoungAssignment/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/CodeyoungAssignment/static/js/main.1dcfd040.chunk.js",
+    "main.js.map": "/CodeyoungAssignment/static/js/main.1dcfd040.chunk.js.map",
+    "runtime-main.js": "/CodeyoungAssignment/static/js/runtime-main.89d68615.js",
+    "runtime-main.js.map": "/CodeyoungAssignment/static/js/runtime-main.89d68615.js.map",
+    "static/js/2.04dc521e.chunk.js": "/CodeyoungAssignment/static/js/2.04dc521e.chunk.js",
+    "static/js/2.04dc521e.chunk.js.map": "/CodeyoungAssignment/static/js/2.04dc521e.chunk.js.map",
+    "static/js/3.263a9caf.chunk.js": "/CodeyoungAssignment/static/js/3.263a9caf.chunk.js",
+    "static/js/3.263a9caf.chunk.js.map": "/CodeyoungAssignment/static/js/3.263a9caf.chunk.js.map",
+    "index.html": "/CodeyoungAssignment/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/CodeyoungAssignment/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.04dc521e.chunk.js.LICENSE.txt": "/CodeyoungAssignment/static/js/2.04dc521e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89d68615.js",
+    "static/js/2.04dc521e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1dcfd040.chunk.js"
+  ]
+}
